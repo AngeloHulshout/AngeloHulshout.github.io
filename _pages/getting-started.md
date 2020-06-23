@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Getting started with Reverie
+published: false
 permalink: /getting-started/
 ---
 
