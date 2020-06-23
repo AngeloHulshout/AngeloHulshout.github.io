@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Software design - is it differnt from architecture, and why do we need it?
+title: Software design - is it different from architecture, and why do we need it?
 type: post
 published: true
 comments: true
