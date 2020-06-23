@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Domain Driven Design - Method and process agnostic
-status: 
 type: post
 published: true
 comments: true
