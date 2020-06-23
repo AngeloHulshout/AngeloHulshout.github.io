@@ -98,4 +98,4 @@ exclude:
   - CNAME
 
 
-theme: jekyll-theme-cayman
+remote_theme: amitmerchant1990/reverie
