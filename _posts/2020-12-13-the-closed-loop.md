@@ -6,7 +6,6 @@ published: true
 comments: true
 ---
 
-# The closed loop
 ![Photo by Lars Kienle on Unsplash](https://miro.medium.com/max/1400/1*0Rlb9pV2Vx7YfEs3FlEPRQ.jpeg)
 
 In software engineering, and specifically in software architecture, we spend a lot of time talking about patterns, architectural styles and other rules and guidelines. Over the past 25 years, and before, a lot of books and articles have been written about those, covering all aspects of software engineering. All of this is very useful, but it can also be overwhelming and sometimes appear quite complex. That's why every once in a while, I enjoy going back to very basic principles. Basic, as in simple, effective, and often so obvious that they often get overlooked.
